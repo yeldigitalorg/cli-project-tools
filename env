@@ -1,0 +1,7 @@
+# Variables
+# RENAME THIS FILE TO .env
+
+ORG_NAME="yeldigitalorg"       # Replace with your organization's name
+PRIVATE_ACCOUNT="yassinwallace"  # Replace with your private GitHub username
+ORG_TOKEN=""  # Add your organization token
+PRIVATE_TOKEN=""  # Add your private GitHub token
